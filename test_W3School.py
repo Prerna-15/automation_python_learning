@@ -16,8 +16,8 @@ def test_environment(self):
 
 
 # def test_w3schools(test_environment):
-    driver.find_element_by_xpath("//*[@class='w3-bar-item w3-button w3-hover-white w3-padding-16 w3-right'][1]").click()
-    driver.find_element_by_name("search").send_keys("angular js")
+#    driver.find_element_by_xpath("//*[@class='w3-bar-item w3-button w3-hover-white w3-padding-16 w3-right'][1]").click()
+ #   driver.find_element_by_name("search").send_keys("angular js")
 
     import time
     time.sleep(3)
